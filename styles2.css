@@ -1,0 +1,41 @@
+/* geral */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    color: #323232;
+    border: none;
+}
+
+body {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+a{
+    font-size: 30px;
+}
+
+#LEONARDO {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h1{
+    color: #fff;
+}
+
+/* container login */
+
+#cadastrar-se {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px  10px;
+    margin-top: 60vh;
+    border-radius: 10px;
+    text-align: center;
+}
